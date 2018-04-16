@@ -1171,3 +1171,6 @@ while 1:
                 shift=False
     pygame.display.flip()
 clock.tick(80)
+
+
+Aquest programa ha estat modificat per mi (Toni Chornet)
